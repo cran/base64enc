@@ -1,0 +1,9 @@
+b27dc3470224b3992e317908584caf2d *DESCRIPTION
+1d5b63f7c7830986d147c9aed01ae84e *NAMESPACE
+855863aba618475b3ebf6e925261ea7e *R/URI.R
+1226dce04eb3d197c2acb85fd3b0f778 *R/base64.R
+084e60bb1bdbd018b7b3ea592b408474 *R/dataURI.R
+83cd45e6a0d09b4adecacc0017b1ec3f *man/base64.Rd
+6aa8fe2aa56a68b82a383f8843bfb1ef *man/dataURI.Rd
+3ab7e2d18aecc946b0b18d7285ba043b *src/base64.c
+1d4011c2a805f12db1ff522f88cf1be4 *src/uriencode.c
